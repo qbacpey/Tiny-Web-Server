@@ -4,7 +4,7 @@
 
 ## 代码设计
 
-![image-20230319201257171](D:\Computer Science\NEU\Linux操作系统\实验\20206691\代码\lab3\src\README.assets\image-20230319201257171.png)
+![image-20230319201257171](https://github.com/qbacpey/Tiny-Web-Server/blob/master/README.assets/image-20230319201257171.png)
 
 ### 并行性
 
